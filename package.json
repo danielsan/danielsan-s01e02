@@ -1,5 +1,5 @@
 {
-  "name": "aws-lambda-function-nodejs-template",
+  "name": "danielsan-s01e02",
   "version": "0.0.0",
   "description": "Template for lambda-functions",
   "scripts": {
@@ -22,15 +22,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EveryMundo/aws-lambda-function-nodejs-template.git"
+    "url": "git+https://github.com/EveryMundo/danielsan-s01e02.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EveryMundo/aws-lambda-function-nodejs-template/issues"
+    "url": "https://github.com/EveryMundo/danielsan-s01e02/issues"
   },
-  "homepage": "https://github.com/EveryMundo/aws-lambda-function-nodejs-template#readme",
+  "homepage": "https://github.com/EveryMundo/danielsan-s01e02#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "dotenv": "^8.0.0",

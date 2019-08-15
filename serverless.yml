@@ -1,6 +1,6 @@
 # serverless.yml
 # https://github.com/serverless/serverless/blob/master/docs/providers/aws/guide/serverless.yml.md
-service: aws-lambda-function-nodejs-template
+service: danielsan-s01e02
 
 plugins:
   - serverless-aws-alias
